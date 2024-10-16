@@ -8,6 +8,8 @@ to a section with the version name.
 
 ## Unreleased Changes
 
+* Fix invalid tax amounts if an item is added to multiple lines
+
 ## 0.37.1
 
 * Fix various return invoice regressions in 0.37.0
